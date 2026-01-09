@@ -54,7 +54,7 @@ abra o index.html no navegador
 
 🌐 6. Publicação (GitHub Pages)
 
-Link do site hospedado(temporariamente): https://app.netlify.com/projects/padariasantoslandingpage
+Link do site hospedado(temporariamente): https://padariasantoslandingpage.netlify.app
 
 
 🖼️ 7. Capturas de Tela
